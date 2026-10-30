@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gymcave.app/sitemap.xml
